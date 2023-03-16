@@ -13,3 +13,11 @@ D:/Users/juanp_schamun/Documents/GitRepositories/VirtualEnvioronment/.venv/Scrip
 D:\Users\juanp_schamun\Documents\GitRepositories\globant\.venv\Scripts\activate
 
 D:/Users/juanp_schamun/Documents/GitRepositories/globant/.venv/Scripts/activate
+
+
+
+django
+
+Change your models (in models.py).
+Run python manage.py makemigrations to create migrations for those changes
+Run python manage.py migrate to apply those changes to the database.
