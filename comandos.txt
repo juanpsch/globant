@@ -1,0 +1,15 @@
+D:\Users\juanp_schamun\AppData\Local\Programs\Python\Python311\python -m virtualenv .venv
+D:\Users\juanp_schamun\AppData\Local\Programs\Python\Python311\python -m venv .venv
+
+d:/Users/juanp_schamun/Documents/GitRepositories/VirtualEnvioronment/.venv/Scripts/python.exe -m pip install -r requirements.txt
+
+D:\\Users\\juanp_schamun\\AppData\\Local\\Programs\\Python\\Python311\\python.exe -m venv D:\Users\juanp_schamun\Documents\GitRepositories\VirtualEnvioronment\.venv
+
+D:\Users\juanp_schamun\Documents\GitRepositories\VirtualEnvioronment\.venv\Scripts\activate
+D:\\Users\\juanp_schamun\\Documents\\GitRepositories\\VirtualEnvioronment\\.venv\\Scripts\\activate
+D:/Users/juanp_schamun/Documents/GitRepositories/VirtualEnvioronment/.venv/Scripts/activate
+
+
+D:\Users\juanp_schamun\Documents\GitRepositories\globant\.venv\Scripts\activate
+
+D:/Users/juanp_schamun/Documents/GitRepositories/globant/.venv/Scripts/activate
