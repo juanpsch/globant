@@ -1,4 +1,6 @@
-El presente proyecto resuelve los ejercicios planteados en el archivo "Ejercicio Data.pdf" en Python
+El presente proyecto resuelve los ejercicios planteados en el archivo "Ejercicio Data.pdf"
+Se resolvió usando Python 3.11.2
+En el archivo "requirements.txt" están los módulos necesarios que deben ser instalados en el ambiente de python a utilizar
 
 ## Challenge1 
 ### Por simplicidad se realizó un código en un archivo de jupyter notebook: "challenge.ipynb"
@@ -13,4 +15,4 @@ El presente proyecto resuelve los ejercicios planteados en el archivo "Ejercicio
 ## Challenge2
 ### Se resuelve en el mismo archivo de jupyter notebook: "challenge.ipynb"
 ### Los archivos "resumen1.csv" y "resumen2.csv" son el resultado de los requerimientos 1 y 2 del challenge 2
-### En el archivo "requirements.txt" están los módulos necesarios que deben ser instalados en el ambiente python
+
