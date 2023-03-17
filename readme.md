@@ -9,9 +9,9 @@ En el archivo "requirements.txt" están los módulos necesarios que deben ser in
 ### Para importar los datos se usa pandas, asi también como para llenar la base da datos
 ### Las sentencias SQL para crear las tablas están en el archivo "createTables.sql"
 ### Algunos requerimientos del Challenge no fueron concretados:
-#### -Feature Backup
-#### -New Data rest api
-#### -Feature Restore
+-Feature Backup
+-New Data rest api
+-Feature Restore
 ## Challenge2
 ### Se resuelve en el mismo archivo de jupyter notebook: "challenge.ipynb"
 ### Los archivos "resumen1.csv" y "resumen2.csv" son el resultado de los requerimientos 1 y 2 del challenge 2
