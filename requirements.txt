@@ -2,3 +2,5 @@ numpy
 pandas
 ipykernel
 sqlalchemy
+openpyxl
+matplotlib
