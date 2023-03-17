@@ -2,5 +2,10 @@ numpy
 pandas
 ipykernel
 sqlalchemy
+<<<<<<< HEAD
 openpyxl
 matplotlib
+=======
+matplotlib
+requests
+>>>>>>> cabe91882bbaa54689ac388435646c965a1d9a1b
