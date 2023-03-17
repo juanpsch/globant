@@ -1,4 +1,5 @@
-# El presente proyecto resuelve los ejercicios planteados en Python
+El presente proyecto resuelve los ejercicios planteados en el archivo "Ejercicio Data.pdf" en Python
+
 ## Challenge1 
 ### Por simplicidad se realizó un código en un archivo de jupyter notebook: "challenge.ipynb"
 ### Como base de datos se usó sqlite3 generando el archivo de base de datos "challenge.db"
