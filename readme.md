@@ -8,10 +8,9 @@ En el archivo "requirements.txt" están los módulos necesarios que deben ser in
 ### Los archivos con la data a importar están en el path ".\data\"
 ### Para importar los datos se usa pandas, asi también como para llenar la base da datos
 ### Las sentencias SQL para crear las tablas están en el archivo "createTables.sql"
+### La actualización se hace desde archivos csv reutilizando la función.
 ### Algunos requerimientos del Challenge no fueron concretados aun:
 -Feature Backup
-
--New Data rest api
 
 -Feature Restore
 
